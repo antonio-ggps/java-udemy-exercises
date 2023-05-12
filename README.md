@@ -10,8 +10,8 @@
 - [x] Constructors, overloading, encapsulation
 - [x] Data structures: arrays and collections
 - [x] Enumerations, composition
-- [ ] Inheritance, polymorphism, interfaces
-- [ ] Exception Handling
+- [x] Inheritance, polymorphism, interfaces
+- [x] Exception Handling
 - [ ] Generics
 - [ ] Functional programming and lambda expressions, Stream API
 
